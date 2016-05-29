@@ -4,7 +4,7 @@
 - [**Hoplon**](https://github.com/hoplon/demos/tree/master/todoFRP)
 - [**Om**](https://github.com/swannodette/todomvc/tree/gh-pages/labs/architecture-examples/om)
 - [**Om Next**](https://github.com/swannodette/om-next-demo/tree/master/todomvc/src)
-- [Om Next + Datomic + Datascript](https://github.com/madvas/todomvc-omnext-datomic-datascript/tree/master/src/cljs/todomvc)
+- [Om Next + Datomic + Datascript](https://github.com/madvas/todomvc-omnext-datomic-datascript)
 - [**Reagent**](https://github.com/reagent-project/reagent/tree/master/examples/todomvc)
 - [Reagent + **Keechma**](https://github.com/keechma/keechma-todomvc)
 - [Reagent + **Re-frame**](https://github.com/Day8/re-frame/tree/master/examples/todomvc)

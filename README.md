@@ -3,7 +3,7 @@
 - [**Carry**](https://github.com/metametadata/carry/tree/master/examples/todomvc)
 - [**Hoplon**](https://github.com/hoplon/demos/tree/master/todoFRP)
 - [**Om**](https://github.com/swannodette/todomvc/tree/gh-pages/labs/architecture-examples/om)
-- [**Om Next**](https://github.com/swannodette/om-next-demo/tree/master/todomvc/src)
+- [**Om Next**](https://github.com/swannodette/om-next-demo)
 - [Om Next + **Untangled**](https://github.com/untangled-web/untangled-todomvc)
 - [Om Next + Datomic + Datascript](https://github.com/madvas/todomvc-omnext-datomic-datascript)
 - [**Reagent**](https://github.com/reagent-project/reagent/tree/master/examples/todomvc)

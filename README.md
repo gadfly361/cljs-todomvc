@@ -2,6 +2,7 @@
 
 - [**Hoplon**](https://github.com/hoplon/demos/tree/master/todoFRP)
 - [**Om**](https://github.com/swannodette/todomvc/tree/gh-pages/labs/architecture-examples/om)
+- [Om || Reagent + **Ampere**](https://github.com/condense/ampere/tree/master/examples/todomvc)
 - [**Om Next**](https://github.com/swannodette/om-next-demo)
 - [Om Next + **Untangled**](https://github.com/untangled-web/untangled-todomvc)
 - [Om Next + Datomic + Datascript](https://github.com/madvas/todomvc-omnext-datomic-datascript)

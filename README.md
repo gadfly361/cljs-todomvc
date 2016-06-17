@@ -1,5 +1,6 @@
 # Clojurescript TodoMVC Examples by Library
 
+- [clojurescript](https://github.com/dfuenzalida/todo-cljs)
 - [**Hoplon**](https://github.com/hoplon/demos/tree/master/todoFRP)
 - [**Om**](https://github.com/swannodette/todomvc/tree/gh-pages/labs/architecture-examples/om)
 - [Om || Reagent + **Ampere**](https://github.com/condense/ampere/tree/master/examples/todomvc)
@@ -8,6 +9,7 @@
 - [Om Next + Datomic + Datascript](https://github.com/madvas/todomvc-omnext-datomic-datascript)
 - [**Reagent**](https://github.com/reagent-project/reagent/tree/master/examples/todomvc)
 - [Reagent + **Carry**](https://github.com/metametadata/carry/tree/master/examples/todomvc)
+- [Reagent + core.match + Specter + Hodgepodge](https://github.com/metametadata/cljs-elmish-todomvc)
 - [Reagent + **Keechma**](https://github.com/keechma/keechma-todomvc)
 - [Reagent + **Re-frame**](https://github.com/Day8/re-frame/tree/master/examples/todomvc)
 - [**Rum** + **Datascript**](https://github.com/tonsky/datascript-todo)

@@ -9,7 +9,6 @@
 - [Om Next + Datomic + Datascript](https://github.com/madvas/todomvc-omnext-datomic-datascript)
 - [**Reagent**](https://github.com/reagent-project/reagent/tree/master/examples/todomvc)
 - [Reagent + **Carry**](https://github.com/metametadata/carry/tree/master/examples/todomvc)
-- [Reagent + core.match + Specter + Hodgepodge](https://github.com/metametadata/cljs-elmish-todomvc)
 - [Reagent + **Keechma**](https://github.com/keechma/keechma-todomvc)
 - [Reagent + **Re-frame**](https://github.com/Day8/re-frame/tree/master/examples/todomvc)
 - [**Rum** + **Datascript**](https://github.com/tonsky/datascript-todo)

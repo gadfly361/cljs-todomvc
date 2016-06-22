@@ -9,13 +9,15 @@
 - [Om Next + Datascript + Datomic](https://github.com/madvas/todomvc-omnext-datomic-datascript)
 - [**Reagent**](https://github.com/reagent-project/reagent/tree/master/examples/todomvc)
 - [Reagent + **Carry**](https://github.com/metametadata/carry/tree/master/examples/todomvc)
-- [Reagent + Datascript + **Posh**](https://github.com/mpdairy/posh-todo)
+- [_Reagent + Datascript + **Posh**_](https://github.com/mpdairy/posh-todo)
 - [Reagent + **Keechma**](https://github.com/keechma/keechma-todomvc)
 - [Reagent + **Re-frame**](https://github.com/Day8/re-frame/tree/master/examples/todomvc)
 - [**Rum** + **Datascript**](https://github.com/tonsky/datascript-todo)
 - [**Quiescent**](https://github.com/levand/todomvc/tree/gh-pages/architecture-examples/quiescent)
 
 **Bold** = by author of library
+
+*Italics* = Not quite a TodoMVC example, but still a todo example
 
 # Contributing
 

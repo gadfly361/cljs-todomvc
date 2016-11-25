@@ -15,6 +15,7 @@
 - [Reagent + **Re-frame**](https://github.com/Day8/re-frame/tree/master/examples/todomvc)
 - [**Rum** + **Datascript**](https://github.com/tonsky/datascript-todo)
 - [**Quiescent**](https://github.com/levand/todomvc/tree/gh-pages/architecture-examples/quiescent)
+- [Vdom](https://github.com/sj4/todomvc)
 
 **Bold** = by author of library
 

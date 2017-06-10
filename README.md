@@ -8,6 +8,7 @@
 - [**Om Next**](https://github.com/swannodette/om-next-demo)
 - [Om Next + **Untangled**](https://github.com/untangled-web/untangled-todomvc)
 - [Om Next + Datascript + Datomic](https://github.com/madvas/todomvc-omnext-datomic-datascript)
+- [**Precept**](https://github.com/CoNarrative/precept/tree/master/src/cljs/precept/todomvc)
 - [**Reagent**](https://github.com/reagent-project/reagent/tree/master/examples/todomvc)
 - [Reagent + **Carry**](https://github.com/metametadata/carry/tree/master/examples/todomvc)
 - [_Reagent + Datascript + **Posh**_](https://github.com/mpdairy/posh-todo)

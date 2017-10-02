@@ -14,6 +14,7 @@
 - [_Reagent + Datascript + **Posh**_](https://github.com/mpdairy/posh-todo)
 - [Reagent + **Keechma**](https://github.com/keechma/keechma-todomvc)
 - [Reagent + **Re-frame**](https://github.com/Day8/re-frame/tree/master/examples/todomvc)
+- [Reagent + **Re-frankenstein**](https://github.com/chpill/re-frankenstein/tree/master/examples/todomvc)
 - [**Rum** + **Datascript**](https://github.com/tonsky/datascript-todo)
 - [**Quiescent**](https://github.com/levand/todomvc/tree/gh-pages/architecture-examples/quiescent)
 - [Vdom](https://github.com/sj4/todomvc)

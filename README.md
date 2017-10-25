@@ -12,6 +12,7 @@
 - [**Reagent**](https://github.com/reagent-project/reagent/tree/master/examples/todomvc)
 - [Reagent + **Carry**](https://github.com/metametadata/carry/tree/master/examples/todomvc)
 - [_Reagent + Datascript + **Posh**_](https://github.com/mpdairy/posh-todo)
+- [_Reagent + Elm Architecture_ (Re-alm)](https://github.com/vbedegi/re-alm/tree/master/examples/todomvc)
 - [Reagent + **Keechma**](https://github.com/keechma/keechma-todomvc)
 - [Reagent + **Re-frame**](https://github.com/Day8/re-frame/tree/master/examples/todomvc)
 - [Reagent + **Re-frankenstein**](https://github.com/chpill/re-frankenstein/tree/master/examples/todomvc)
